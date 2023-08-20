@@ -1,1 +1,2 @@
-# MNIST-Digit-classification-using-Neural-Networks
+# MNIST-Digit-classification
+
